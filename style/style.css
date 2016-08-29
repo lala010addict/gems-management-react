@@ -1,0 +1,11 @@
+.user-detail .details-title {
+ margin: 20px;
+}
+
+.list-group-item {
+  cursor: pointer;
+}
+
+.list-group-item:hover {
+  background-color: #eee;
+}
